@@ -119,6 +119,21 @@ ul {
         height: 100%;
     }
 }
+.button {
+    text-transform: uppercase;
+    margin: 0 auto 80px;
+    border: 2px solid var(--main-color);
+    padding: 5px 20px;
+    font-size: 25px;
+    width: fit-content;
+    background: var(--main-color);
+    font-weight: 700;
+    border-radius: 4px;
+    cursor: pointer;
+}
+a .button {
+    color: white;
+}
 /* Start Header */
 .header {
     padding: 20px;
