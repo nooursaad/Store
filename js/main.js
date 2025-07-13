@@ -30,6 +30,6 @@ document.addEventListener('keydown', function(e) {
         (e.ctrlKey && e.key === 'U')
     ) {
         e.preventDefault();
-        alert("الحماية مفعلة. لا يمكنك فحص الكود 👀");
+        alert("Protection is enabled. You cannot check the code.👀");
     }
 });
