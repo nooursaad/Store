@@ -334,12 +334,16 @@ ul {
     padding-bottom: var(--section-padding); */
     text-align: center;
 }
-.contact .info .label {
+.contact .info .label , .steps {
     font-size: 35px;
     font-weight: 800;
     color: var(--secondary-color);
     letter-spacing: -2px;
     margin-bottom: 15px;
+}
+.contact .steps {
+    color: #333;
+    font-size: 25px;
 }
 .contact .info .link {
     display: block;
