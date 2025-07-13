@@ -344,6 +344,8 @@ ul {
 .contact .steps {
     color: #333;
     font-size: 25px;
+    font-weight: 500;
+    letter-spacing: -1px;
 }
 .contact .info .link {
     display: block;
