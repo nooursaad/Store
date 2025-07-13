@@ -131,7 +131,7 @@ ul {
     border-radius: 4px;
     cursor: pointer;
 }
-a .button {
+.button a {
     color: white;
 }
 /* Start Header */
