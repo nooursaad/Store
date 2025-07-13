@@ -244,7 +244,7 @@ a .button {
 /* Start Articles */
 .articles {
     padding-top: var(--main-padding-top);
-    padding-bottom: var(--main-padding-bottom);
+    padding-bottom: 60px;
     position: relative;
 }
 .articles .container {
